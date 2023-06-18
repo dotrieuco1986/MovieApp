@@ -13,7 +13,7 @@ interface PromoCodeState {
 const initialState: PromoCodeState = {
   promoCode: [
     {
-      code: "50dolamy",
+      code: "50dola9999",
       value: 50,
       type: "money",
     },
